@@ -11,7 +11,7 @@
                
               
                 <div class="panel-body">
-                 
+
                     
                     <center>
                     <img src="{{ URL::to('/') }}/images/{{ $avatar }}.jpg" />
@@ -22,8 +22,7 @@
                     <button class="btn-primary" type="button" onclick="window.location='{{ url("page") }}'">Confirmer</button>
                     </center>
                     
-                    
-                    
+
                     
                     
                 
